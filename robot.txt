@@ -1,0 +1,11 @@
+ciara
+vlavo
+vpravo
+opakuj 5
+vpravo
+ciara
+vlavo
+ciara
+vlavo
+ciara
+koniecopakuj

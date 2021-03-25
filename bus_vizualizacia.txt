@@ -1,0 +1,9 @@
+30
+20 0 Matadorka
+15 0 Gogolova
+10 20 Namestie SNP
+40 20 Kaukazska
+10 20 Bratska
+5 10 Nemocnica s poliklinikou
+35 10 Sintavska
+0 55 Holicska
